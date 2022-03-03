@@ -21,3 +21,4 @@ C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\Sp
 C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\Spv.GamesStation.Shared.dll
 C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\ref\Spv.GamesStation.Shared.dll
 C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\Spv.GamesStation.Shared.pdb
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\Spv.GamesStation.Shared.csproj.AssemblyReference.cache

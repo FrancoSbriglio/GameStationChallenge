@@ -9,3 +9,4 @@ C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Repositorio.Interfaz\obj\D
 C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Repositorio.Interfaz\obj\Debug\net6.0\Spv.GamesStation.Repositorio.Interfaz.dll
 C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Repositorio.Interfaz\obj\Debug\net6.0\ref\Spv.GamesStation.Repositorio.Interfaz.dll
 C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Repositorio.Interfaz\obj\Debug\net6.0\Spv.GamesStation.Repositorio.Interfaz.pdb
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Repositorio.Interfaz\obj\Debug\net6.0\Spv.GamesStation.Repositorio.Interfaz.csproj.AssemblyReference.cache
