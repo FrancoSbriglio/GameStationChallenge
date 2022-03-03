@@ -1,0 +1,5 @@
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Servicio\obj\Debug\net6.0\Spv.GamesStation.Servicio.csproj.AssemblyReference.cache
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Servicio\obj\Debug\net6.0\Spv.GamesStation.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Servicio\obj\Debug\net6.0\Spv.GamesStation.Servicio.AssemblyInfoInputs.cache
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Servicio\obj\Debug\net6.0\Spv.GamesStation.Servicio.AssemblyInfo.cs
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Servicio\obj\Debug\net6.0\Spv.GamesStation.Servicio.csproj.CoreCompileInputs.cache
