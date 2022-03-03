@@ -1,0 +1,12 @@
+C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Repositorio.Entidades\bin\Debug\net5.0\Spv.GamesStation.Repositorio.Entidades.deps.json
+C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Repositorio.Entidades\bin\Debug\net5.0\Spv.GamesStation.Repositorio.Entidades.dll
+C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Repositorio.Entidades\bin\Debug\net5.0\ref\Spv.GamesStation.Repositorio.Entidades.dll
+C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Repositorio.Entidades\bin\Debug\net5.0\Spv.GamesStation.Repositorio.Entidades.pdb
+C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Repositorio.Entidades\obj\Debug\net5.0\Spv.GamesStation.Repositorio.Entidades.csproj.AssemblyReference.cache
+C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Repositorio.Entidades\obj\Debug\net5.0\Spv.GamesStation.Repositorio.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Repositorio.Entidades\obj\Debug\net5.0\Spv.GamesStation.Repositorio.Entidades.AssemblyInfoInputs.cache
+C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Repositorio.Entidades\obj\Debug\net5.0\Spv.GamesStation.Repositorio.Entidades.AssemblyInfo.cs
+C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Repositorio.Entidades\obj\Debug\net5.0\Spv.GamesStation.Repositorio.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Repositorio.Entidades\obj\Debug\net5.0\Spv.GamesStation.Repositorio.Entidades.dll
+C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Repositorio.Entidades\obj\Debug\net5.0\ref\Spv.GamesStation.Repositorio.Entidades.dll
+C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Repositorio.Entidades\obj\Debug\net5.0\Spv.GamesStation.Repositorio.Entidades.pdb
