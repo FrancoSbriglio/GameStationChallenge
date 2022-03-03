@@ -1,5 +1,4 @@
-﻿using System.Threading.Tasks;
-using Spv.GamesStation.Repositorio.Entidades.BD;
+﻿using Spv.GamesStation.Repositorio.Entidades.BD;
 
 namespace Spv.GamesStation.Repositorio.Interfaz{
 

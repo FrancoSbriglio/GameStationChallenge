@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fs87858\\Desktop\\GSChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj": {}
+    "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fs87858\\Desktop\\GSChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj": {
+    "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj",
         "projectName": "GamesStationChallenge",
-        "projectPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj",
+        "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj",
         "packagesPath": "C:\\Users\\fs87858\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\GamesStationChallenge\\obj\\",
+        "outputPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\GamesStationChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,17 +35,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj": {
-                "projectPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj"
+              "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj": {
+                "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj"
               },
-              "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj": {
-                "projectPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj"
+              "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Dominio\\Spv.GamesStation.Dominio.csproj": {
+                "projectPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Dominio\\Spv.GamesStation.Dominio.csproj"
               },
-              "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio.Interfaz\\Spv.GamesStation.Servicio.Interfaz.csproj": {
-                "projectPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio.Interfaz\\Spv.GamesStation.Servicio.Interfaz.csproj"
-              },
-              "C:\\Users\\fs87858\\source\\repos\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj": {
-                "projectPath": "C:\\Users\\fs87858\\source\\repos\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj"
+              "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio\\Spv.GamesStation.Servicio.csproj": {
+                "projectPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio\\Spv.GamesStation.Servicio.csproj"
               }
             }
           }
@@ -147,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj": {
+    "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj",
         "projectName": "Spv.GamesStation.Repositorio.Entidades",
-        "projectPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj",
+        "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj",
         "packagesPath": "C:\\Users\\fs87858\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Repositorio.Entidades\\obj\\",
+        "outputPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -208,14 +205,175 @@
         }
       }
     },
-    "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj": {
+    "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Interfaz\\Spv.GamesStation.Repositorio.Interfaz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj",
-        "projectName": "Spv.GamesStation.Shared",
-        "projectPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Interfaz\\Spv.GamesStation.Repositorio.Interfaz.csproj",
+        "projectName": "Spv.GamesStation.Repositorio.Interfaz",
+        "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Interfaz\\Spv.GamesStation.Repositorio.Interfaz.csproj",
         "packagesPath": "C:\\Users\\fs87858\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Shared\\obj\\",
+        "outputPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Interfaz\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fs87858\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj": {
+                "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1.22076.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj",
+        "projectName": "Spv.GamesStation.Repositorio",
+        "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj",
+        "packagesPath": "C:\\Users\\fs87858\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fs87858\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj": {
+                "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj"
+              },
+              "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Interfaz\\Spv.GamesStation.Repositorio.Interfaz.csproj": {
+                "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Interfaz\\Spv.GamesStation.Repositorio.Interfaz.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1.22076.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1.22076.6, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1.22076.8, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1.22076.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj",
+        "projectName": "Spv.GamesStation.Shared",
+        "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj",
+        "packagesPath": "C:\\Users\\fs87858\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -279,14 +437,14 @@
         }
       }
     },
-    "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj": {
+    "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Dominio\\Spv.GamesStation.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj",
-        "projectName": "Spv.GamesStation.Repositorio.Entidades",
-        "projectPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Dominio\\Spv.GamesStation.Dominio.csproj",
+        "projectName": "Spv.GamesStation.Dominio",
+        "projectPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Dominio\\Spv.GamesStation.Dominio.csproj",
         "packagesPath": "C:\\Users\\fs87858\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Repositorio.Entidades\\obj\\",
+        "outputPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -309,7 +467,17 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj": {
+                "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj"
+              },
+              "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Interfaz\\Spv.GamesStation.Repositorio.Interfaz.csproj": {
+                "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Interfaz\\Spv.GamesStation.Repositorio.Interfaz.csproj"
+              },
+              "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj": {
+                "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -321,6 +489,20 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -371,8 +553,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj": {
-                "projectPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj"
+              "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj": {
+                "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj"
               }
             }
           }
@@ -405,14 +587,14 @@
         }
       }
     },
-    "C:\\Users\\fs87858\\source\\repos\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj": {
+    "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio\\Spv.GamesStation.Servicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fs87858\\source\\repos\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj",
-        "projectName": "Spv.GamesStation.Repositorio",
-        "projectPath": "C:\\Users\\fs87858\\source\\repos\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj",
+        "projectUniqueName": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio\\Spv.GamesStation.Servicio.csproj",
+        "projectName": "Spv.GamesStation.Servicio",
+        "projectPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio\\Spv.GamesStation.Servicio.csproj",
         "packagesPath": "C:\\Users\\fs87858\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fs87858\\source\\repos\\GameStationChallenge\\Spv.GamesStation.Repositorio\\obj\\",
+        "outputPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -436,8 +618,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj": {
-                "projectPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj"
+              "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj": {
+                "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj"
+              },
+              "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio.Interfaz\\Spv.GamesStation.Servicio.Interfaz.csproj": {
+                "projectPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio.Interfaz\\Spv.GamesStation.Servicio.Interfaz.csproj"
               }
             }
           }
@@ -452,25 +637,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNet.WebApi.Client": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[5.2.7, )"
+              "version": "[11.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[7.0.0-preview.1.22076.6, )"
+              "version": "[5.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Relational": {
+            "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
-              "version": "[7.0.0-preview.1.22076.6, )"
-            },
-            "Microsoft.Extensions.Caching.Memory": {
-              "target": "Package",
-              "version": "[7.0.0-preview.1.22076.8, )"
-            },
-            "Microsoft.Extensions.Http": {
-              "target": "Package",
-              "version": "[7.0.0-preview.1.22076.8, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

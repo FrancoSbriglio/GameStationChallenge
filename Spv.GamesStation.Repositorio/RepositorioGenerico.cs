@@ -1,5 +1,4 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Spv.GamesStation.Repositorio.Interfaz;
 
 namespace Spv.GamesStation.Repositorio{

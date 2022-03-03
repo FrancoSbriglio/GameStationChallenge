@@ -1,7 +1,4 @@
-﻿using System.Threading.Tasks;
-using Spv.GamesStation.Repositorio.Entidades.Models.Dto.InputDto;
-
-namespace Spv.GamesStation.Repositorio.Interfaz
+﻿namespace Spv.GamesStation.Repositorio.Interfaz
 {
     public interface IItemGuerreroRepositorio
     {

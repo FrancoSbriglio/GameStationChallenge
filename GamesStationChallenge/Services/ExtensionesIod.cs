@@ -1,5 +1,12 @@
 ﻿using AutoMapper;
 using GamesStationChallenge.AutoMapper;
+using Spv.GamesStation.Dominio;
+using Spv.GamesStation.Dominio.Interfaz;
+
+using Spv.GamesStation.Repositorio.Interfaz;
+using Spv.GamesStation.Servicio;
+using Spv.GamesStation.Servicio.Interfaz;
+using Spv.GamesStation.Repositorio;
 
 namespace GamesStationChallenge.Services
 {
@@ -16,8 +23,17 @@ namespace GamesStationChallenge.Services
 
             #endregion
 
+            services.AddTransient<IItemService, ItemServicio>();
+            services.AddTransient<IItemDominio, ItemDominio>();
 
+            services.AddTransient<IItemRepositorio, ItemRepositorio>();
 
-    }
+            services.AddTransient<IVelocidadGuerreroRepositorio, VelocidadVelocidadGuerreroRepositorio>();
+            services.AddTransient<IFuerzaGuerreroRepositorio, FuerzaGuerreroRepositorio>();
+            services.AddTransient<IResistenciaGuerrero, ResistenciaGuerreroRepositorio>();
+            services.AddTransient<IItemGuerreroRepositorio, ItemGuerreroRepositorio>();
+            services.AddTransient<IUsuarioRepositorio, UsuarioRepositorio>();
+
+        }
 }
 }

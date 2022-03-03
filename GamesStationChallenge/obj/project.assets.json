@@ -203,7 +203,7 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Abstractions.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Mvc.Core/2.2.0": {
+      "Microsoft.AspNetCore.Mvc.Core/2.2.5": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Core": "2.2.0",
@@ -1342,6 +1342,24 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
+      "Spv.GamesStation.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Newtonsoft.Json": "13.0.1",
+          "Spv.GamesStation.Repositorio.Entidades": "1.0.0",
+          "Spv.GamesStation.Repositorio.Interfaz": "1.0.0",
+          "Spv.GamesStation.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Spv.GamesStation.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Spv.GamesStation.Dominio.dll": {}
+        }
+      },
       "Spv.GamesStation.Repositorio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1351,7 +1369,8 @@
           "Microsoft.EntityFrameworkCore.Relational": "7.0.0-preview.1.22076.6",
           "Microsoft.Extensions.Caching.Memory": "7.0.0-preview.1.22076.8",
           "Microsoft.Extensions.Http": "7.0.0-preview.1.22076.8",
-          "Spv.GamesStation.Repositorio.Entidades": "1.0.0"
+          "Spv.GamesStation.Repositorio.Entidades": "1.0.0",
+          "Spv.GamesStation.Repositorio.Interfaz": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Spv.GamesStation.Repositorio.dll": {}
@@ -1368,6 +1387,37 @@
         },
         "runtime": {
           "bin/placeholder/Spv.GamesStation.Repositorio.Entidades.dll": {}
+        }
+      },
+      "Spv.GamesStation.Repositorio.Interfaz/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.0-preview.1.22076.6",
+          "Spv.GamesStation.Repositorio.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Spv.GamesStation.Repositorio.Interfaz.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Spv.GamesStation.Repositorio.Interfaz.dll": {}
+        }
+      },
+      "Spv.GamesStation.Servicio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
+          "Microsoft.Extensions.Configuration": "5.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "5.0.0",
+          "Spv.GamesStation.Repositorio.Entidades": "1.0.0",
+          "Spv.GamesStation.Servicio.Interfaz": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Spv.GamesStation.Servicio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Spv.GamesStation.Servicio.dll": {}
         }
       },
       "Spv.GamesStation.Servicio.Interfaz/1.0.0": {
@@ -1606,16 +1656,16 @@
         "microsoft.aspnetcore.mvc.abstractions.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Mvc.Core/2.2.0": {
-      "sha512": "ALiY4a6BYsghw8PT5+VU593Kqp911U3w9f/dH9/ZoI3ezDsDAGiObqPu/HP1oXK80Ceu0XdQ3F0bx5AXBeuN/Q==",
+    "Microsoft.AspNetCore.Mvc.Core/2.2.5": {
+      "sha512": "/8sr8ixIUD57UFwUntha9bOwex7/AkZfdk1f9oNJG1Ek7p/uuKVa7fuHmYZpQOf35Oxrt+2Ku4WPwMSbNxOuWg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.mvc.core/2.2.0",
+      "path": "microsoft.aspnetcore.mvc.core/2.2.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.xml",
-        "microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.mvc.core.2.2.5.nupkg.sha512",
         "microsoft.aspnetcore.mvc.core.nuspec"
       ]
     },
@@ -4472,15 +4522,30 @@
         "version.txt"
       ]
     },
+    "Spv.GamesStation.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../../../source/repos/GamesStation/Spv.GamesStation.Dominio/Spv.GamesStation.Dominio.csproj",
+      "msbuildProject": "../../../source/repos/GamesStation/Spv.GamesStation.Dominio/Spv.GamesStation.Dominio.csproj"
+    },
     "Spv.GamesStation.Repositorio/1.0.0": {
       "type": "project",
-      "path": "../../../source/repos/GameStationChallenge/Spv.GamesStation.Repositorio/Spv.GamesStation.Repositorio.csproj",
-      "msbuildProject": "../../../source/repos/GameStationChallenge/Spv.GamesStation.Repositorio/Spv.GamesStation.Repositorio.csproj"
+      "path": "../Spv.GamesStation.Repositorio/Spv.GamesStation.Repositorio.csproj",
+      "msbuildProject": "../Spv.GamesStation.Repositorio/Spv.GamesStation.Repositorio.csproj"
     },
     "Spv.GamesStation.Repositorio.Entidades/1.0.0": {
       "type": "project",
       "path": "../Spv.GamesStation.Repositorio.Entidades/Spv.GamesStation.Repositorio.Entidades.csproj",
       "msbuildProject": "../Spv.GamesStation.Repositorio.Entidades/Spv.GamesStation.Repositorio.Entidades.csproj"
+    },
+    "Spv.GamesStation.Repositorio.Interfaz/1.0.0": {
+      "type": "project",
+      "path": "../Spv.GamesStation.Repositorio.Interfaz/Spv.GamesStation.Repositorio.Interfaz.csproj",
+      "msbuildProject": "../Spv.GamesStation.Repositorio.Interfaz/Spv.GamesStation.Repositorio.Interfaz.csproj"
+    },
+    "Spv.GamesStation.Servicio/1.0.0": {
+      "type": "project",
+      "path": "../../../source/repos/GamesStation/Spv.GamesStation.Servicio/Spv.GamesStation.Servicio.csproj",
+      "msbuildProject": "../../../source/repos/GamesStation/Spv.GamesStation.Servicio/Spv.GamesStation.Servicio.csproj"
     },
     "Spv.GamesStation.Servicio.Interfaz/1.0.0": {
       "type": "project",
@@ -4508,10 +4573,9 @@
       "Newtonsoft.Json >= 13.0.1",
       "Serilog >= 2.11.0-dev-01380",
       "ServiceStack.Text >= 6.0.2",
+      "Spv.GamesStation.Dominio >= 1.0.0",
       "Spv.GamesStation.Repositorio >= 1.0.0",
-      "Spv.GamesStation.Repositorio.Entidades >= 1.0.0",
-      "Spv.GamesStation.Servicio.Interfaz >= 1.0.0",
-      "Spv.GamesStation.Shared >= 1.0.0",
+      "Spv.GamesStation.Servicio >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.5.1",
       "Swashbuckle.AspNetCore.Annotations >= 5.5.1",
       "Swashbuckle.AspNetCore.Newtonsoft >= 5.5.1"
@@ -4526,11 +4590,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj",
       "projectName": "GamesStationChallenge",
-      "projectPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj",
+      "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj",
       "packagesPath": "C:\\Users\\fs87858\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\GamesStationChallenge\\obj\\",
+      "outputPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\GamesStationChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -4554,17 +4618,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj": {
-              "projectPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj"
+            "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj": {
+              "projectPath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj"
             },
-            "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj": {
-              "projectPath": "C:\\Users\\fs87858\\Desktop\\GSChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj"
+            "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Dominio\\Spv.GamesStation.Dominio.csproj": {
+              "projectPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Dominio\\Spv.GamesStation.Dominio.csproj"
             },
-            "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio.Interfaz\\Spv.GamesStation.Servicio.Interfaz.csproj": {
-              "projectPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio.Interfaz\\Spv.GamesStation.Servicio.Interfaz.csproj"
-            },
-            "C:\\Users\\fs87858\\source\\repos\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj": {
-              "projectPath": "C:\\Users\\fs87858\\source\\repos\\GameStationChallenge\\Spv.GamesStation.Repositorio\\Spv.GamesStation.Repositorio.csproj"
+            "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio\\Spv.GamesStation.Servicio.csproj": {
+              "projectPath": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\Spv.GamesStation.Servicio\\Spv.GamesStation.Servicio.csproj"
             }
           }
         }

@@ -1,6 +1,4 @@
-﻿using System.Threading.Tasks;
-
-namespace Spv.GamesStation.Repositorio.Interfaz
+﻿namespace Spv.GamesStation.Repositorio.Interfaz
 {
     public interface IUsuarioRepositorio
     {

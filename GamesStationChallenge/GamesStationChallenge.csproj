@@ -27,10 +27,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\source\repos\GamesStation\Spv.GamesStation.Servicio.Interfaz\Spv.GamesStation.Servicio.Interfaz.csproj" />
-    <ProjectReference Include="..\..\..\source\repos\GameStationChallenge\Spv.GamesStation.Repositorio\Spv.GamesStation.Repositorio.csproj" />
-    <ProjectReference Include="..\Spv.GamesStation.Repositorio.Entidades\Spv.GamesStation.Repositorio.Entidades.csproj" />
-    <ProjectReference Include="..\Spv.GamesStation.Shared\Spv.GamesStation.Shared.csproj" />
+    <ProjectReference Include="..\..\..\source\repos\GamesStation\Spv.GamesStation.Dominio\Spv.GamesStation.Dominio.csproj" />
+    <ProjectReference Include="..\..\..\source\repos\GamesStation\Spv.GamesStation.Servicio\Spv.GamesStation.Servicio.csproj" />
+    <ProjectReference Include="..\Spv.GamesStation.Repositorio\Spv.GamesStation.Repositorio.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Spv.GamesStation.Dominio.Interfaz">
+      <HintPath>..\..\..\source\repos\GamesStation\Spv.GamesStation.Dominio.Interfaz\bin\Debug\net6.0\Spv.GamesStation.Dominio.Interfaz.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

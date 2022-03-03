@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Spv.GamesStation.Repositorio.Entidades.BD;
-using Spv.GamesStation.Repositorio.Entidades.Models.Dto.InputDto;
 using Spv.GamesStation.Repositorio.Interfaz;
 
 namespace Spv.GamesStation.Repositorio

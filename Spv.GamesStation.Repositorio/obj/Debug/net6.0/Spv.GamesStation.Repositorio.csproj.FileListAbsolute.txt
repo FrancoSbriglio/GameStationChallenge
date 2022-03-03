@@ -1,0 +1,17 @@
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\bin\Debug\net6.0\Spv.GamesStation.Repositorio.deps.json
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\bin\Debug\net6.0\Spv.GamesStation.Repositorio.dll
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\bin\Debug\net6.0\ref\Spv.GamesStation.Repositorio.dll
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\bin\Debug\net6.0\Spv.GamesStation.Repositorio.pdb
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\bin\Debug\net6.0\Spv.GamesStation.Repositorio.Entidades.dll
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\bin\Debug\net6.0\Spv.GamesStation.Repositorio.Interfaz.dll
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\bin\Debug\net6.0\Spv.GamesStation.Repositorio.Entidades.pdb
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\bin\Debug\net6.0\Spv.GamesStation.Repositorio.Interfaz.pdb
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\obj\Debug\net6.0\Spv.GamesStation.Repositorio.csproj.AssemblyReference.cache
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\obj\Debug\net6.0\Spv.GamesStation.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\obj\Debug\net6.0\Spv.GamesStation.Repositorio.AssemblyInfoInputs.cache
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\obj\Debug\net6.0\Spv.GamesStation.Repositorio.AssemblyInfo.cs
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\obj\Debug\net6.0\Spv.GamesStation.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\obj\Debug\net6.0\Spv.GamesStation.Repositorio.csproj.CopyComplete
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\obj\Debug\net6.0\Spv.GamesStation.Repositorio.dll
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\obj\Debug\net6.0\ref\Spv.GamesStation.Repositorio.dll
+C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Repositorio\obj\Debug\net6.0\Spv.GamesStation.Repositorio.pdb
