@@ -2,7 +2,6 @@ C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Dominio.Interfaz\
 C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Dominio.Interfaz\bin\Debug\net6.0\Spv.GamesStation.Dominio.Interfaz.dll
 C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Dominio.Interfaz\bin\Debug\net6.0\ref\Spv.GamesStation.Dominio.Interfaz.dll
 C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Dominio.Interfaz\bin\Debug\net6.0\Spv.GamesStation.Dominio.Interfaz.pdb
-C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Dominio.Interfaz\obj\Debug\net6.0\Spv.GamesStation.Dominio.Interfaz.csproj.AssemblyReference.cache
 C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Dominio.Interfaz\obj\Debug\net6.0\Spv.GamesStation.Dominio.Interfaz.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Dominio.Interfaz\obj\Debug\net6.0\Spv.GamesStation.Dominio.Interfaz.AssemblyInfoInputs.cache
 C:\Users\fs87858\Desktop\GameStationChallenge\Spv.GamesStation.Dominio.Interfaz\obj\Debug\net6.0\Spv.GamesStation.Dominio.Interfaz.AssemblyInfo.cs

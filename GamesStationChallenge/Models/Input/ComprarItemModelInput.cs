@@ -5,9 +5,9 @@ namespace GamesStationChallenge.Models.Input{
 
 public class ComprarItemModelInput
 {
-    [Required(ErrorMessage = "El id Item es requerido")]
-    public int IdItem { get; set; }
-    [Required(ErrorMessage = "El id del usuario es requerido")]
+        [Required(ErrorMessage = "El id Item es requerido")]
+        public int IdItem { get; set; }
+        [Required(ErrorMessage = "El id del usuario es requerido")]
         public int IdUsuario { get; set; }
         [Required(ErrorMessage = "Las monedas que tiene el usuario son requeridas")]
         public decimal MonedasUsuario { get; set; }
