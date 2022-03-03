@@ -20,7 +20,7 @@ namespace GamesStationChallenge.Controllers
         private readonly IItemService _itemService;
         public const string ApiVersion = "1.0";
         public const string RutaBase = "v{version:apiVersion}/hero";
-        private const string RutaComprarItem = "equipar";
+        private const string RutaComprarItem = "item";
 
         public HeroController(IMapper mapper, IItemService itemService)
         {
