@@ -1,5 +1,11 @@
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Dominio\obj\Debug\net6.0\Spv.GamesStation.Dominio.csproj.AssemblyReference.cache
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Dominio\bin\Debug\net6.0\Spv.GamesStation.Dominio.deps.json
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Dominio\bin\Debug\net6.0\Spv.GamesStation.Dominio.dll
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Dominio\bin\Debug\net6.0\ref\Spv.GamesStation.Dominio.dll
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Dominio\bin\Debug\net6.0\Spv.GamesStation.Dominio.pdb
 C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Dominio\obj\Debug\net6.0\Spv.GamesStation.Dominio.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Dominio\obj\Debug\net6.0\Spv.GamesStation.Dominio.AssemblyInfoInputs.cache
 C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Dominio\obj\Debug\net6.0\Spv.GamesStation.Dominio.AssemblyInfo.cs
 C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Dominio\obj\Debug\net6.0\Spv.GamesStation.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Dominio\obj\Debug\net6.0\Spv.GamesStation.Dominio.dll
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Dominio\obj\Debug\net6.0\ref\Spv.GamesStation.Dominio.dll
+C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Dominio\obj\Debug\net6.0\Spv.GamesStation.Dominio.pdb

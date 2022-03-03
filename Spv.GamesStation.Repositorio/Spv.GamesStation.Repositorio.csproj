@@ -4,6 +4,15 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <LangVersion>preview</LangVersion>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0-preview.1.22076.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Spv.GamesStation.Repositorio.Entidades\Spv.GamesStation.Repositorio.Entidades.csproj" />
+  </ItemGroup>
 
 </Project>
