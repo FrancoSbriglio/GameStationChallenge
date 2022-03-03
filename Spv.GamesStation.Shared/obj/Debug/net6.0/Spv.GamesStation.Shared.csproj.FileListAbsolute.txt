@@ -10,15 +10,3 @@ C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Shared\obj\Debug\net
 C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Shared\obj\Debug\net6.0\ref\Spv.GamesStation.Shared.dll
 C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Shared\obj\Debug\net6.0\Spv.GamesStation.Shared.pdb
 C:\Users\fs87858\source\repos\GamesStation\Spv.GamesStation.Shared\obj\Debug\net6.0\Spv.GamesStation.Shared.csproj.AssemblyReference.cache
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\bin\Debug\net6.0\Spv.GamesStation.Shared.deps.json
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\bin\Debug\net6.0\Spv.GamesStation.Shared.dll
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\bin\Debug\net6.0\ref\Spv.GamesStation.Shared.dll
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\bin\Debug\net6.0\Spv.GamesStation.Shared.pdb
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\Spv.GamesStation.Shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\Spv.GamesStation.Shared.AssemblyInfoInputs.cache
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\Spv.GamesStation.Shared.AssemblyInfo.cs
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\Spv.GamesStation.Shared.csproj.CoreCompileInputs.cache
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\Spv.GamesStation.Shared.dll
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\ref\Spv.GamesStation.Shared.dll
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\Spv.GamesStation.Shared.pdb
-C:\Users\fs87858\Desktop\GSChallenge\Spv.GamesStation.Shared\obj\Debug\net6.0\Spv.GamesStation.Shared.csproj.AssemblyReference.cache

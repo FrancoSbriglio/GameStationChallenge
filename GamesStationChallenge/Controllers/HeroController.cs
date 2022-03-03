@@ -8,7 +8,7 @@ using Spv.GamesStation.Repositorio.Entidades.Models.Dto.OutputDto;
 using Spv.GamesStation.Servicio.Interfaz;
 using Swashbuckle.AspNetCore.Annotations;
 
-namespace Spv.GamesStation.Api.Controllers
+namespace GamesStationChallenge.Controllers
 {
     [ApiVersion(ApiVersion)]
     [Route(RutaBase)]

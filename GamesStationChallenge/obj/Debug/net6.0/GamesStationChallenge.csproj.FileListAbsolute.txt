@@ -1,7 +1,0 @@
-C:\Users\fs87858\Desktop\GSChallenge\GamesStationChallenge\obj\Debug\net6.0\GamesStationChallenge.csproj.AssemblyReference.cache
-C:\Users\fs87858\Desktop\GSChallenge\GamesStationChallenge\obj\Debug\net6.0\GamesStationChallenge.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\fs87858\Desktop\GSChallenge\GamesStationChallenge\obj\Debug\net6.0\GamesStationChallenge.AssemblyInfoInputs.cache
-C:\Users\fs87858\Desktop\GSChallenge\GamesStationChallenge\obj\Debug\net6.0\GamesStationChallenge.AssemblyInfo.cs
-C:\Users\fs87858\Desktop\GSChallenge\GamesStationChallenge\obj\Debug\net6.0\GamesStationChallenge.csproj.CoreCompileInputs.cache
-C:\Users\fs87858\Desktop\GSChallenge\GamesStationChallenge\obj\Debug\net6.0\GamesStationChallenge.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\fs87858\Desktop\GSChallenge\GamesStationChallenge\obj\Debug\net6.0\GamesStationChallenge.MvcApplicationPartsAssemblyInfo.cache
