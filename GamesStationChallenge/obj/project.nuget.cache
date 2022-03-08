@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XjYV8XNhv09ieF12rSaYNUOfaxwxPLoPtY1d5YB/xeV2BQK3ZxENRWbErHkDKeg9i/wefwxtdmfbtE0/bRs1kw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\GamesStationChallenge\\GamesStationChallenge.csproj",
+  "dgSpecHash": "4hqE3BlVoSgt1A/Hq0PmWf8wWc5PqZRwnizTrNcd+MIhoGAf8lla5ynz3wjUatAlcbwRENsi0X61eildQqVgvw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge123\\GamesStationChallenge\\GamesStationChallenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fs87858\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\fs87858\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
-    "C:\\Users\\fs87858\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
@@ -35,7 +35,6 @@
     "C:\\Users\\fs87858\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.abstractions.7.0.0-preview.1.22076.6.nupkg.sha512",
     "C:\\Users\\fs87858\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.analyzers.7.0.0-preview.1.22076.6.nupkg.sha512",
     "C:\\Users\\fs87858\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.inmemory.7.0.0-preview.1.22076.6.nupkg.sha512",
-    "C:\\Users\\fs87858\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.relational.7.0.0-preview.1.22076.6.nupkg.sha512",
     "C:\\Users\\fs87858\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\fs87858\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.1.22076.8\\microsoft.extensions.caching.abstractions.7.0.0-preview.1.22076.8.nupkg.sha512",
     "C:\\Users\\fs87858\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.1.22076.8\\microsoft.extensions.caching.memory.7.0.0-preview.1.22076.8.nupkg.sha512",
@@ -104,5 +103,51 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.tasks.extensions\\4.5.1\\system.threading.tasks.extensions.4.5.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\fs87858\\source\\repos\\GamesStation\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\GameStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\fs87858\\source\\repos\\GamesStation\\GamesStationChallenge\\Spv.GamesStation.Servicio.Interfaz\\Spv.GamesStation.Servicio.Interfaz.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\GamesStationChallenge\\Spv.GamesStation.Servicio.Interfaz\\Spv.GamesStation.Servicio.Interfaz.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\fs87858\\source\\repos\\GamesStation\\GamesStationChallenge\\Spv.GamesStation.Repositorio.Interfaz\\Spv.GamesStation.Repositorio.Interfaz.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\GamesStationChallenge\\Spv.GamesStation.Repositorio.Interfaz\\Spv.GamesStation.Repositorio.Interfaz.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\fs87858\\source\\repos\\GamesStation\\GamesStationChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\GamesStationChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\fs87858\\source\\repos\\GamesStation\\GamesStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\fs87858\\source\\repos\\GamesStation\\GamesStationChallenge\\Spv.GamesStation.Repositorio.Entidades\\Spv.GamesStation.Repositorio.Entidades.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

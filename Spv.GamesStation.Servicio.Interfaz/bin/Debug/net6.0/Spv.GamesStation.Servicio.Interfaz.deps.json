@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Spv.GamesStation.Servicio.Interfaz/1.0.0": {
+        "dependencies": {
+          "Spv.GamesStation.Repositorio.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Spv.GamesStation.Servicio.Interfaz.dll": {}
+        }
+      },
+      "Spv.GamesStation.Repositorio.Entidades/1.0.0": {
+        "runtime": {
+          "Spv.GamesStation.Repositorio.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spv.GamesStation.Servicio.Interfaz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spv.GamesStation.Repositorio.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

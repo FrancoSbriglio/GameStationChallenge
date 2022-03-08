@@ -1,4 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using Spv.GamesStation.Repositorio.Entidades.BD;
 using Spv.GamesStation.Repositorio.Interfaz;
 
@@ -12,10 +17,10 @@ namespace Spv.GamesStation.Repositorio
 
         public async Task<int> DisminuirMonedas(int monedasUsuario, int idUsuario)
         {
-          var usuario = await DbSet.FirstAsync(x => x.Id == idUsuario);
-          usuario.Monedas = monedasUsuario;
-          await Context.SaveChangesAsync();
-          return usuario.Monedas;
+            var usuario = await DbSet.FirstAsync(x => x.Id == idUsuario);
+            usuario.Monedas = monedasUsuario;
+            await Context.SaveChangesAsync();
+            return usuario.Monedas;
 
         }
 

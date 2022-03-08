@@ -1,44 +1,49 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using Spv.GamesStation.Repositorio.Interfaz;
 
-namespace Spv.GamesStation.Repositorio{
-
-public class RepositorioGenerico<TEntity> : IRepositorioGenerico<TEntity> where TEntity : class
+namespace Spv.GamesStation.Repositorio
 {
-    private readonly bool _shareContext;
-    protected DbContext Context;
-
-    public RepositorioGenerico(DbContext context)
+    public class RepositorioGenerico<TEntity> : IRepositorioGenerico<TEntity> where TEntity : class
     {
-        Context = context;
-        _shareContext = true;
-    }
+        private readonly bool _shareContext;
+        protected DbContext Context;
 
-    public DbSet<TEntity> DbSet => Context.Set<TEntity>();
+        public RepositorioGenerico(DbContext context)
+        {
+            Context = context;
+            _shareContext = true;
+        }
 
-    public void Dispose()
-    {
-        Dispose(true);
-        GC.SuppressFinalize(this);
-    }
+        public DbSet<TEntity> DbSet => Context.Set<TEntity>();
 
-    public virtual TEntity Add(TEntity t)
-    {
-        var newEntry = DbSet.Add(t);
-        if (!_shareContext)
+        public void Dispose()
+        {
+            Dispose(true);
+            GC.SuppressFinalize(this);
+        }
+
+        public virtual TEntity Add(TEntity t)
+        {
+            var newEntry = DbSet.Add(t);
+            if (!_shareContext)
+                Context.SaveChanges();
+            return newEntry.Entity;
+        }
+
+
+        public virtual void SaveChanges()
+        {
             Context.SaveChanges();
-        return newEntry.Entity;
-    }
+        }
 
-
-    public virtual void SaveChanges()
-    {
-        Context.SaveChanges();
+        protected virtual void Dispose(bool disposing)
+        {
+            if (disposing && !_shareContext) Context?.Dispose();
+        }
     }
-
-    protected virtual void Dispose(bool disposing)
-    {
-        if (disposing && !_shareContext) Context?.Dispose();
-    }
-}
 }

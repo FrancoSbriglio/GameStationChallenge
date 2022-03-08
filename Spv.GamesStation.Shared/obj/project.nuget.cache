@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0ZEyExptwOaG5v60rQAgu36nwbWSNbcEZ2/CYFYnlxRAWvc2HqsesHeMv9EIJg3obxVow5fcrrj1SH4jjJB45g==",
+  "dgSpecHash": "dL9Q5H60112QCSkR2UcPUBBaQJD+9f+42ydCaWAkK+3G15DFGaBCawEYv0bTLARMetvdQuFToMo0XzVXQX9Crw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj",
+  "projectFilePath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge123\\Spv.GamesStation.Shared\\Spv.GamesStation.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

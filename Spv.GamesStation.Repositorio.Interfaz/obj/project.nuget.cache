@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JAdTmryUkM80J8VX0GOqnKdWLpGLm/eIQXhVmiv6Q1QFLien2bCzjLKS8dVrL9HgwX5bbyG7cCP82Zw1OUZHLw==",
+  "dgSpecHash": "r9TbY7I06iprRS6M8IuZ/dryjAij2cZeV2hl7GFsMPJlVr755ZdNHZLVzihozzngGPaKZio2Nkr50dF6FM22eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge\\Spv.GamesStation.Repositorio.Interfaz\\Spv.GamesStation.Repositorio.Interfaz.csproj",
+  "projectFilePath": "C:\\Users\\fs87858\\Desktop\\GameStationChallenge123\\Spv.GamesStation.Repositorio.Interfaz\\Spv.GamesStation.Repositorio.Interfaz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fs87858\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.7.0.0-preview.1.22076.6.nupkg.sha512",
     "C:\\Users\\fs87858\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.abstractions.7.0.0-preview.1.22076.6.nupkg.sha512",

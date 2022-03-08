@@ -4,6 +4,13 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <LangVersion>preview</LangVersion>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Spv.GamesStation.Dominio.Interfaz\Spv.GamesStation.Dominio.Interfaz.csproj" />
+    <ProjectReference Include="..\Spv.GamesStation.Repositorio.Entidades\Spv.GamesStation.Repositorio.Entidades.csproj" />
+    <ProjectReference Include="..\Spv.GamesStation.Servicio.Interfaz\Spv.GamesStation.Servicio.Interfaz.csproj" />
+  </ItemGroup>
 
 </Project>

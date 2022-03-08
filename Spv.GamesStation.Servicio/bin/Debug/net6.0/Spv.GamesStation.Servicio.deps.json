@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Spv.GamesStation.Servicio/1.0.0": {
+        "dependencies": {
+          "Spv.GamesStation.Dominio.Interfaz": "1.0.0",
+          "Spv.GamesStation.Repositorio.Entidades": "1.0.0",
+          "Spv.GamesStation.Servicio.Interfaz": "1.0.0"
+        },
+        "runtime": {
+          "Spv.GamesStation.Servicio.dll": {}
+        }
+      },
+      "Spv.GamesStation.Dominio.Interfaz/1.0.0": {
+        "dependencies": {
+          "Spv.GamesStation.Repositorio.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Spv.GamesStation.Dominio.Interfaz.dll": {}
+        }
+      },
+      "Spv.GamesStation.Repositorio.Entidades/1.0.0": {
+        "runtime": {
+          "Spv.GamesStation.Repositorio.Entidades.dll": {}
+        }
+      },
+      "Spv.GamesStation.Servicio.Interfaz/1.0.0": {
+        "dependencies": {
+          "Spv.GamesStation.Repositorio.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Spv.GamesStation.Servicio.Interfaz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spv.GamesStation.Servicio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spv.GamesStation.Dominio.Interfaz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spv.GamesStation.Repositorio.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spv.GamesStation.Servicio.Interfaz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

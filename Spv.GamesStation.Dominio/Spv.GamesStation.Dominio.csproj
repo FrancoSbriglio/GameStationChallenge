@@ -7,4 +7,14 @@
     <LangVersion>preview</LangVersion>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Spv.GamesStation.Dominio.Interfaz\Spv.GamesStation.Dominio.Interfaz.csproj" />
+    <ProjectReference Include="..\Spv.GamesStation.Repositorio.Interfaz\Spv.GamesStation.Repositorio.Interfaz.csproj" />
+    <ProjectReference Include="..\Spv.GamesStation.Shared\Spv.GamesStation.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

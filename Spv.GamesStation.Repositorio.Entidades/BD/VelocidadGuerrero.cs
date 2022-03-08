@@ -1,6 +1,12 @@
-﻿namespace Spv.GamesStation.Repositorio.Entidades.BD
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Spv.GamesStation.Repositorio.Entidades.BD
 {
-    public  class VelocidadGuerrero
+    public class VelocidadGuerrero
     {
         public int Id { get; set; }
         public int IdGuerrero { get; set; }

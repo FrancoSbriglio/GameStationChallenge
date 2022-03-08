@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Net;
 using System.Runtime.Serialization;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Spv.GamesStation.Shared.Exceptions
 {
@@ -10,16 +13,10 @@ namespace Spv.GamesStation.Shared.Exceptions
     {
         public IDictionary<string, string[]> Errors { get; }
 
-        /// <summary>
-        ///     ErrorCodeNumber
-        /// </summary>
+     
         public HttpStatusCode StatusCode { get; set; }
 
-        /// <summary>
-        ///     BusinessException
-        /// </summary>
-        /// <param name="message"></param>
-        /// <param name="statusCode"></param>
+       
         public BusinessException(string message, HttpStatusCode statusCode)
             : base(message)
         {
